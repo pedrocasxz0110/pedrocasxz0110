@@ -17,7 +17,7 @@
   <tr>
     <td width="75%" valign="top">
 
-      ## Linguagens estudadas:
+      <h2>Linguagens estudadas:</h2>
 
       <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" style="margin-right: 10px;" />
