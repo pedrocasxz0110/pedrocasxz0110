@@ -25,10 +25,6 @@
 
 <img align="right" height="180" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif" alt="gif animado" />
 
- 
-  </tr>
-</table>
-
 ## Contatos
 
 <div> 
