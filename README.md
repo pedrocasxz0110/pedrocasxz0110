@@ -28,9 +28,6 @@
 
 ---
 
-<!-- Snake Animation (Lembre-se de configurar o repositório output no seu GitHub para funcionar) -->
-<img align="left" src="https://raw.githubusercontent.com/pedrocasxz0110/pedrocasxz0110/output/snake.svg" alt="Snake animation" />
-
 <!-- GIF no canto direito -->
 <img height="120" align="right" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif?ex=6862f2ef&is=6861a16f&hm=d1d29c4763c07fa85e5a82006315d61567886abddeb64e667e64fa1a48ca567f&" />
 
