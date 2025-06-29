@@ -4,7 +4,6 @@
 - Fã de fast food 🍟  
 
 <div align="center">
-  
   <a href="https://github.com/pedrocasxz0110/github-readme-stats">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrocasxz0110&show_icons=true&theme=dark" />
   </a>
@@ -12,7 +11,6 @@
   <a href="https://github.com/pedrocasxz0110/convoychat">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocasxz0110&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
   </a>
-
 </div>
 
 ## Linguagens estudadas:
@@ -24,8 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
 </p>
 
-<!-- GIF no canto direito - Aumentado -->
-<img height="180" align="right" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif?ex=6862f2ef&is=6861a16f&hm=d1d29c4763c07fa85e5a82006315d61567886abddeb64e667e64fa1a48ca567f&" />
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img height="180" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif?ex=6862f2ef&is=6861a16f&hm=d1d29c4763c07fa85e5a82006315d61567886abddeb64e667e64fa1a48ca567f&" alt="gif animado" />
+</div>
 
 ## Contatos:
 
