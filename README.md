@@ -1,7 +1,8 @@
-## Hello, welcome to my profile! 🍔
+# Hello, welcome to my profile! 🍔
 
 - Universitário 💻  
 - Fã de fast food 🍟  
+- Apaixonado por programação e tecnologia 🚀
 
 <div align="center">
   <a href="https://github.com/pedrocasxz0110/github-readme-stats">
@@ -13,7 +14,7 @@
   </a>
 </div>
 
-## Linguagens estudadas:
+## Linguagens estudadas
 
 <table width="100%">
   <tr>
@@ -29,18 +30,18 @@
   </tr>
 </table>
 
-## Contatos:
+## Contatos
 
 <div> 
   <a href="https://instagram.com/pedroriqxx" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:pedrohegy1207@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
