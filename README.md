@@ -1,4 +1,4 @@
-## Hello, welcome to my profile! 🍔
+Hello, welcome to my profile! 🍔
 
 - Universitário 💻  
 - Fã de fast food 🍟  
@@ -17,7 +17,7 @@
   <tr>
     <td width="75%" valign="top">
 
-      <h2>Linguagens estudadas:</h2>
+      **Linguagens estudadas:**
 
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" style="margin-right: 10px;" />
@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-## Contatos:
+**Contatos:**
 
 <div> 
   <a href="https://instagram.com/pedroriqxx" target="_blank">
