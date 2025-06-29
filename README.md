@@ -32,7 +32,7 @@
 <img align="left" src="https://raw.githubusercontent.com/pedrocasxz0110/pedrocasxz0110/output/snake.svg" alt="Snake animation" />
 
 <!-- GIF no canto direito -->
-<img height="120" align="right" src="https://cdn.discordapp.com/attachments/662403619064119304/1385970340949135483/cat.gif?ex=685800f7&is=6856af77&hm=51cf85ab27641cadc016445507a7c063c3a788ecf493c3089a1ee3579e78f790&" />
+<img height="120" align="right" src="[https://cdn.discordapp.com/attachments/662403619064119304/1385970340949135483/cat.gif?ex=685800f7&is=6856af77&hm=51cf85ab27641cadc016445507a7c063c3a788ecf493c3089a1ee3579e78f790&](https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif?ex=6862f2ef&is=6861a16f&hm=d1d29c4763c07fa85e5a82006315d61567886abddeb64e667e64fa1a48ca567f&)" />
 
 ---
 
