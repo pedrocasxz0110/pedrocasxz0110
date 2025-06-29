@@ -19,7 +19,7 @@
 
       <h2>Linguagens estudadas:</h2>
 
-      <p align="left">
+      <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" style="margin-right: 10px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" style="margin-right: 10px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" style="margin-right: 10px;" />
