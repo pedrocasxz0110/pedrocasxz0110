@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
 </p>
 
-<img align="right" height="180" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif?ex=6862f2ef&is=6861a16f&hm=d1d29c4763c07fa85e5a82006315d61567886abddeb64e667e64fa1a48ca567f&" alt="gif animado" />
+<img align="right" height="320" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif?ex=6862f2ef&is=6861a16f&hm=d1d29c4763c07fa85e5a82006315d61567886abddeb64e667e64fa1a48ca567f&" alt="gif animado" />
 
  # Contatos
 
