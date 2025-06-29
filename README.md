@@ -14,19 +14,18 @@
   </a>
 </div>
 
-## Linguagens estudadas
+## Linguagens estudadas:
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td align="left" valign="middle" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" style="margin-right: 10px; border: none;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" style="margin-right: 10px; border: none;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" style="margin-right: 10px; border: none;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" style="border: none;" />
-    </td>
-    <td align="right" valign="middle" width="180" style="border: none;">
-      <img height="180" style="display: block; border: none;" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif?ex=6862f2ef&is=6861a16f&hm=d1d29c4763c07fa85e5a82006315d61567886abddeb64e667e64fa1a48ca567f&" alt="gif animado" />
-    </td>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
+</p>
+
+<img align="right" height="180" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif" alt="gif animado" />
+
+ 
   </tr>
 </table>
 
