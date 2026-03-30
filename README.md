@@ -2,11 +2,11 @@
 
 🎓 Estudante de Engenharia de Software pela Anhanguera  
 💻 Técnico em Desenvolvimento de Sistemas  
-🚀 Em busca da minha primeira oportunidade em TI  
+🚀 Em busca da minha primeira oportunidade na área de TI  
 
 ## Sobre mim
 Tenho interesse em desenvolvimento de software, suporte a sistemas e soluções tecnológicas que tornem processos mais práticos e eficientes.  
-Atualmente estudo e desenvolvo projetos para aprimorar minhas habilidades em programação e construção de sistemas.
+Atualmente, venho aprimorando meus conhecimentos por meio de estudos e projetos práticos, com foco em programação, lógica e construção de sistemas.
 
 ## Tecnologias em estudo
 - Python
@@ -19,39 +19,30 @@ Atualmente estudo e desenvolvo projetos para aprimorar minhas habilidades em pro
 Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
 
 ## Contato
-- LinkedIn: [https://www.linkedin.com/in/pedro-henrique-egydio-de-souza-0425522b9/]
-- E-mail: [pedrohegy1207@gmail.com]
+- LinkedIn: [Pedro Henrique no LinkedIn](https://www.linkedin.com/in/pedro-henrique-egydio-de-souza-0425522b9/)
+- E-mail: [pedrohegy1207@gmail.com](mailto:pedrohegy1207@gmail.com)
 
 <div align="center">
   <a href="https://github.com/pedrocasxz0110/github-readme-stats">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrocasxz0110&show_icons=true&theme=dark" />
   </a>
 
-  <a href="https://github.com/pedrocasxz0110/convoychat">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocasxz0110&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <a href="https://github.com/pedrocasxz0110">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocasxz0110&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
 
-## Linguagens estudadas:
-
+## Linguagens estudadas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
 </p>
 
-
-
- # Contatos
- <img align="right" height="240" src="https://cdn.discordapp.com/attachments/1388968451325821059/1388978932044398833/2hk9.gif?ex=6862f2ef&is=6861a16f&hm=d1d29c4763c07fa85e5a82006315d61567886abddeb64e667e64fa1a48ca567f&" alt="gif animado" />
-
+## Redes profissionais
 <div> 
-  <a href="https://instagram.com/pedroriqxx" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
-
-  <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-egydio-de-souza-0425522b9/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
