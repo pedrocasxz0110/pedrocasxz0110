@@ -1,8 +1,26 @@
-# Hello, welcome to my profile! 🍔
+# Olá! Eu sou Pedro Henrique 👋
 
-- Universitário 💻  
-- Fã de fast food 🍟  
-- Apaixonado por programação e tecnologia 🚀
+🎓 Estudante de Engenharia de Software pela Anhanguera  
+💻 Técnico em Desenvolvimento de Sistemas  
+🚀 Em busca da minha primeira oportunidade em TI  
+
+## Sobre mim
+Tenho interesse em desenvolvimento de software, suporte a sistemas e soluções tecnológicas que tornem processos mais práticos e eficientes.  
+Atualmente estudo e desenvolvo projetos para aprimorar minhas habilidades em programação e construção de sistemas.
+
+## Tecnologias em estudo
+- Python
+- JavaScript
+- HTML
+- CSS
+- Git e GitHub
+
+## Objetivo
+Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
+
+## Contato
+- LinkedIn: [https://www.linkedin.com/in/pedro-henrique-egydio-de-souza-0425522b9/]
+- E-mail: [pedrohegy1207@gmail.com]
 
 <div align="center">
   <a href="https://github.com/pedrocasxz0110/github-readme-stats">
